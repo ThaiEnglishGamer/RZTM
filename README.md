@@ -2,9 +2,6 @@
 
 An "over-decorated," terminal-based CLI program built in Python to manage ticket sales for a school event. It features a dynamic, scalable interface that includes real-time ticket stats and full-screen ASCII art.
 
-![RZTM Screenshot](screenshot.png)
-*(Note: You will need to take a screenshot of your program running, name it `screenshot.png`, and place it in the folder for this image to appear on GitHub.)*
-
 ---
 
 ### 🌟 About The Project
